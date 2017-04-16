@@ -1,0 +1,8 @@
+# Script Configuration
+server='irc.freenode.org'
+port='6667'
+nick='el_robot'
+secret='soopersekret'
+realName='El Robot'
+hostName=''
+channels=( "#el_robot" )
